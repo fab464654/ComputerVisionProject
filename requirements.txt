@@ -1,0 +1,2 @@
+- MATLAB 2021a was used
+- vlfeat-0.9.21 was used: https://www.vlfeat.org/install-matlab.html
